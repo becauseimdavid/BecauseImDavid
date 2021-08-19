@@ -1,6 +1,7 @@
-<h2 align="center">Hi 👋, I'm David</h1>
+<h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A front and backend developer from Germany</h3>
 
+<h5 align="center">Languages I code with:</h3>
 <p align="center">
 <a href="java" title="Java"><img width="35px" height="35px" src="https://devlog.wiki/img/java.svg" alt="Java" loading="lazy"></a>
 <a href="csharp" title="C#"><img width="35px" height="35px" src="https://devlog.wiki/img/csharp.svg" alt="C#" loading="lazy"></a>
