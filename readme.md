@@ -1,8 +1,6 @@
-<h1 align="center">
-Hi 👋, I'm David
+<h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A front and backend developer from Germany</h3>
-</h1>
---
+
 <h5 align="center" color="gray">Languages I use:</h3>
 <p align="center">
 <a title="Java"><img width="35px" height="35px" src="https://devlog.wiki/img/java.svg" alt="Java" loading="lazy"></a>
