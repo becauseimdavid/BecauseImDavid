@@ -7,7 +7,7 @@
 <a href="c" title="C"><img height="35px" style="height: 33px;" src="https://devlog.wiki/img/c.svg" alt="C" loading="lazy"></a>
 
 <a href="html" class="divider" title="HTML2"><img height="35px" style="height: 30px;" src="https://devlog.wiki/img/html.svg" alt="HTML" loading="lazy"></a>
-<a href="css" title="CSS"><img height="35px" svg="https://devlog.wiki/img/css.svg#Layer_1" style="height: 30px;" src="img/css.svg" alt="CSS" loading="lazy"></a>
+<a href="css" title="CSS"><img height="35px" style="height: 30px;" src="https://devlog.wiki/img/css.svg" alt="CSS" loading="lazy"></a>
 <a href="javascript" title="JavaScript"><img height="35px" style="height: 30px;" src="https://devlog.wiki/img/javascript.svg" alt="JavaScript" loading="lazy"></a>
 <a href="php" title="PHP"><img height="35px" style="width: 40px; transform: translateY(3px);" src="https://devlog.wiki/img/php.svg" alt="PHP" loading="lazy"></a>
 
