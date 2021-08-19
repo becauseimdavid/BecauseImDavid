@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm David</h1>
+<h1 align="center">
+Hi 👋, I'm David
 <h3 align="center">A front and backend developer from Germany</h3>
+</h1>
 --
 <h5 align="center" color="gray">Languages I use:</h3>
 <p align="center">
