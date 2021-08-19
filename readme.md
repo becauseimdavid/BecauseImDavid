@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate front and backend developer from Germany</h3>
 
-<a href="java" title="Java"><img src="https://devlog.wiki/img/java.svg" alt="Java" loading="lazy"></a>
+<a href="java" title="Java"><img height="35px" src="https://devlog.wiki/img/java.svg" alt="Java" loading="lazy"></a>
 <a href="csharp" title="C#"><img style="height: 33px;" src="https://devlog.wiki/img/csharp.svg" alt="C#" loading="lazy"></a>
 <a href="cplusplus" title="C++"><img style="height: 33px;" src="https://devlog.wiki/img/cplusplus.svg" alt="C++" loading="lazy"></a>
 <a href="c" title="C"><img style="height: 33px;" src="https://devlog.wiki/img/c.svg" alt="C" loading="lazy"></a>
