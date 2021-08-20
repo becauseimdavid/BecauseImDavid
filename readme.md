@@ -4,9 +4,9 @@
 <h5 align="center" color="gray">Languages I learned:</h3>
 <p align="center">
 <a title="Java"><img width="35px" height="35px" src="https://devlog.wiki/img/java.svg" alt="Java" loading="lazy"></a>
-<a title="C#"><img width="35px" height="35px" src="https://devlog.wiki/img/csharp.svg" alt="C#" loading="lazy"></a>
-<a title="C++"><img width="35px" height="35px" src="https://devlog.wiki/img/cplusplus.svg" alt="C++" loading="lazy"></a>
-<a title="C"><img width="35px" height="35px" src="https://devlog.wiki/img/c.svg" alt="C" loading="lazy"></a>
+  <a title="C#"><img width="35px" height="35px" src="https://devlog.wiki/img/csharp.svg" alt="C#" loading="lazy"></a>
+  <a title="C++"><img width="35px" height="35px" src="https://devlog.wiki/img/cplusplus.svg" alt="C++" loading="lazy"></a>
+  <a title="C"><img width="35px" height="35px" src="https://devlog.wiki/img/c.svg" alt="C" loading="lazy"></a>
 </p>
 
 <p align="center">
