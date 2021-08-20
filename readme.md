@@ -12,7 +12,7 @@
 <p align="center">
 <a title="HTML"><img width="35px" height="35px" src="https://devlog.wiki/img/html.svg" alt="HTML" loading="lazy"></a>
 <a title="CSS"><img width="35px" height="35px" src="https://devlog.wiki/img/css.svg" alt="CSS" loading="lazy"></a>
-<a title="JavaScript"><img width="35px" height="35px" src="https://devlog.wiki/img/javascript.svg" alt="JavaScript" loading="lazy"></a>
+<a title="JavaScript"><img width="35px" height="33px" src="https://devlog.wiki/img/javascript.svg" alt="JavaScript" loading="lazy"></a>
 <a title="PHP"><img width="35px" height="35px" src="https://devlog.wiki/img/php.svg" alt="PHP" loading="lazy"></a>
 </p>
 
