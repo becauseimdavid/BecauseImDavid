@@ -21,3 +21,5 @@
 <a title="Git"><img width="35px" height="35px" src="https://devlog.wiki/img/git.svg" alt="Git" loading="lazy"></a>
 <!--a title="Linux"><img width="35px" height="35px" src="https://devlog.wiki/img/linux.svg" alt="Linux" loading="lazy"></a-->
 </p>
+
+<p align="center">📋 <a href="https://gist.github.com/becauseimdavid">gists</a></p>
