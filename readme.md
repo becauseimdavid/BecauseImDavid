@@ -22,4 +22,4 @@
 <!--a title="Linux"><img width="35px" height="35px" src="https://raw.githubusercontent.com/becauseimdavid/BecauseImDavid/main/img/linux.svg" alt="Linux" loading="lazy"></a-->
 </p>
 
-<p align="center">📋 <a href="https://gist.github.com/becauseimdavid">gists</a></p>
+<p align="center"><a href="https://gist.github.com/becauseimdavid">📋 gists</a></p>
